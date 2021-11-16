@@ -11,4 +11,10 @@ git branch -M main
 git push -u origin main
 
 c. 
+Captura de pantalla en el documento de examen
 
+d.
+Captura de pantalla en el documento de examen
+
+e.
+Creamos archivo .gitignore y escribimos dentro el archivo y la carpeta que queremos ignorar: private.txt y privada
