@@ -18,3 +18,30 @@ Captura de pantalla en el documento de examen
 
 e.
 Creamos archivo .gitignore y escribimos dentro el archivo y la carpeta que queremos ignorar: private.txt y privada
+
+f. 
+Captura de pantalla en el documento del examen
+
+g. 
+para añadir una etiqueta utilizamos el comando:
+git tag "v1"
+
+h.
+Subimos los cambios al repositorio:
+git add .
+git commit
+git push
+git push --tags
+
+--EJERCICIO 2--
+
+a.
+Para crear una rama:
+git branch "v0.2"
+
+b.
+Creamos fichero 2.txt en rama v0.2
+Cambiamos a esta rama con:
+git checkout "v0.2"
+
+
