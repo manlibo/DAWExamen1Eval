@@ -47,3 +47,30 @@ git checkout "v0.2"
 d.
 Para realizar un merge, hacemos commit desde rama v0.2, nos situamos en la rama main y hacemos git merge "v0.2"
 
+--EERCICIO 3--
+a.
+Captura en el documento.
+Para hacer el commit:
+git add .
+git commit -m "Hacemos commit de ejercicio 3 apartado a." 
+
+b.
+git checkout "v0.2"
+y hacemos los cambios (adios) y el commit desde esta rama.
+
+c.
+nos posicionamos en main con git checkout "main"
+Hacemos git merge "v0.2"
+Aceptamos los dos cambios para solucionar el conflicto y nos quedamos con el texto Hola y adiós.
+
+--EJERCICIO 4--
+a.
+Listamos las ramas con merge con el comando: git branch --merged
+
+b.
+Creamos el tag v0.2 con tag v0.2
+lo subimos con git push --tags
+
+c.
+Borramos la rama v0.2 con el comando:
+git branch -d "v0.2"
