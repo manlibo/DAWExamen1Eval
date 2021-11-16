@@ -44,4 +44,6 @@ Creamos fichero 2.txt en rama v0.2
 Cambiamos a esta rama con:
 git checkout "v0.2"
 
+d.
+Para realizar un merge, hacemos commit desde rama v0.2, nos situamos en la rama main y hacemos git merge "v0.2"
 
