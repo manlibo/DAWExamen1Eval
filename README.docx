@@ -1,0 +1,14 @@
+--EJERCICIO 1--
+a.
+Comandos utilizados:
+git init
+git add .
+git commit
+
+b.
+git remote add origin https://github.com/manlibo/DAWExamen1Eval.git
+git branch -M main
+git push -u origin main
+
+c. 
+
